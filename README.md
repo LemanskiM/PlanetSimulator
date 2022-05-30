@@ -1,7 +1,9 @@
 ---------------------
 PlanetSimulator
 ---------------------
-Moving planet simulator 
+Moving planet simulator
+- pygame
+- random
 ---------------------
 Update planned:
 - Add others planets
